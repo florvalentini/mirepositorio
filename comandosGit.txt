@@ -1,0 +1,8 @@
+Crear una nueva rama --> git branch <nombreRama>
+Moverse a cualquier rama del proyecto --> git checkout <nombreRama>
+Conocer los cambios realizados en el proyecto --> git status
+Agregar archivos para realizar el commit --> git add . (agrega todos los archivos cambiados)
+Agregar archivos en específico al commit --> git add <nombreArchivo>
+Realizar un commit con mensaje --> git commit -m "Acá va el mensaje"
+Realizar un push para subir los cambios de la compu al repo de git  (de local a remoto) --> git push origin <nombreRama>
+Actualizar tu rama local segun el proyecto remoto --> git pull
